@@ -15,3 +15,29 @@ Here's what the dashboard looks like:<br>![Picture101](https://user-images.githu
 My goal was to make a single dashboard that can filter out by region, country, and product type to get the best feel for the data in one view.
 
 ## SQL Queries
+SQL queries can be found in the salesProject.sql file in this folder.
+<br><br>
+Questions answered:
+<br>
+- Best peforming region
+- Worst performing region
+- Best 10 performing countries
+- Worst 10 performing countries
+- Worst performing country in x region
+- Best performing item type
+- Worst performing item type
+- Best peforming year
+- Worst performing year
+- ?
+- ?
+- ?
+- ?
+- ?
+- ?
+- ?
+- ?
+- ?
+- ?
+- ?
+- ?
+<br>
